@@ -1,3 +1,3 @@
-<H1>Books</H1>
+<H1>Team Reporter</H1>
 
-<h3>https://books-git.netlify.app/</h3>
+<h3>https://teamreporterapp.netlify.app/</h3>
